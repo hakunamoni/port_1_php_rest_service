@@ -6,7 +6,7 @@
 
 ## Requirement
 
-My 1st historical web project
+This is my very first, historical web project
 
 ```bash
 Building a hello world type PHP REST web service with IP and token authentication.
@@ -14,6 +14,8 @@ Building a hello world type PHP REST web service with IP and token authenticatio
 ```
 
 ## Running Results
+
+Client & Web Server
 
 ![demo](/img/port_api_server_0.jpg)
 
